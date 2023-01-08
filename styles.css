@@ -1,0 +1,23 @@
+/*==================== 
+        HEADER 
+====================*/
+header {
+    background-color: #0C0C52;
+}
+.dot {
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    border-radius: 50%;
+}
+li {
+    color: white;
+    display: inline;
+    float: right;
+}
+/*====================
+        MAIN 
+ ====================*/
+/*==================== 
+        FOOTER 
+====================*/
